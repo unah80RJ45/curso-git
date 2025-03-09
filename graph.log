@@ -1,0 +1,22 @@
+*   a931697 Conflicto por modificar un commit
+|\  
+| * f45214b agregando las estaciones del ano
+* | f2dba5c agregando inicio de las estaciones
+|/  
+*   b3a29ea resolviendo conflicto
+|\  
+| * 6a0b471 Agregando index js al html
+* | 1bb011e Agregando style.css al index.hml
+* |   cb65f85 index.js
+|\ \  
+| * | 7fcaaed creadndo index.js
+* | | dd8f529 creando style.css
+| |/  
+|/|   
+* | 73e7a9e Creando archivo index.hml
+|/  
+* 5ba850b ignorando archivos.exe
+* 94a61af Create LICENSE
+* 2d02fd0 Agregando mas contenido al readme
+* a30fb28 index.html
+* 34364c8 Primer Commit
